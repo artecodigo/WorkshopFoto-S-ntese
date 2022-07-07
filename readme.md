@@ -27,9 +27,9 @@ An experimentation workshop with simple physical computing interfaces and an int
 
 
 ### Workshops
-- 2016 Photo-Synthesis, MILL, Lisbon
-- 2015 Photo-Synthesis, DAR, Caldas da Rainha
-- 2013 Photo-Synthesis, City Conceived Festival, Montemor-o-Novo
+- 2016 Foto-Síntese, MILL, Lisboa 
+- 2015 Foto-Síntese, DAR, Caldas da Rainha 
+- 2013 Foto-Síntese, Festival Cidade Preocupada, Montemor-o-Novo 
 
 ### License
 - (c) 2013-14 s373.net/x, (c) 2022 ArtCode
