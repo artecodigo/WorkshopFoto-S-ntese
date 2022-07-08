@@ -32,5 +32,5 @@ An experimentation workshop with simple physical computing interfaces and an int
 - 2013 Foto-Síntese, Festival Cidade Preocupada, Montemor-o-Novo 
 
 ### License
-- (c) 2013-14 s373.net/x, (c) 2022 ArtCode
+- (c) 2013-14 s373.net/x, (c) 2022 ArteCódigo
 - MIT
